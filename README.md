@@ -8,7 +8,7 @@ I'd tell you the code right now, but you know what? I already have. Think.
 
 ![0](0.gif)
 
-File: [the_hidden_noise.wav]
+File: the_hidden_noise.wav
 <details>
   <summary>Hint</summary>
     letter_to_dtmf = {'A': '00', 'B': '01', ..., 'Z': '25'}
