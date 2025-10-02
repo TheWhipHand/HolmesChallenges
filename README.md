@@ -1,4 +1,4 @@
-> I'd tell you the code right now, but you know what? I already have. Think.
+I'd tell you the code right now, but you know what? I already have. Think.
 
 ## Task 1: 
 
