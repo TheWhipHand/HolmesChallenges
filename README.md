@@ -6,7 +6,7 @@ I'd tell you the code right now, but you know what? I already have. Think.
 — So what?  
 — Oh, noises are important. Noises can tell you everything. For instance...  
 
-![0](0.gif)
+![1](1.gif)
 
 <details>
   <summary>Hint</summary>
