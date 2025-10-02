@@ -10,6 +10,8 @@ I'd tell you the code right now, but you know what? I already have. Think
 
 ![1](1.gif)
 
+File: the_hidden_noise.wav
+
 <details>
   <summary>Hint</summary>
   letter_to_dtmf = {'A': '00', 'B': '01', ..., 'Z': '25'}
@@ -23,6 +25,13 @@ Couldn't figure it out. What can you do, Mr Holmes? Go on, impress a girl
 
 ![2](2.gif)
 
+File: the_coventry_conundrum
+
+<details>
+  <summary>Hint</summary>
+  Try to figure out what check_seat() does
+</details>
+
 ## Quest 3: 
 
 — You have a passcode to open this  
@@ -31,3 +40,5 @@ Couldn't figure it out. What can you do, Mr Holmes? Go on, impress a girl
 — There will be two passcodes, one to open the phone, one to burn the drive. Even under duress, you can't know which one she's given you and there would be no point in a second attempt  
 
 ![3](3.gif)
+
+Files: secure_phone_system, secure_phone_system.c
