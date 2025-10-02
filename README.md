@@ -2,9 +2,9 @@
 
 ## Task 1: 
 
-— There's going to be a loud noise 
-— So what?
-— Oh, noises are important. Noises can tell you everything. For instance...
+— There's going to be a loud noise  
+— So what?  
+— Oh, noises are important. Noises can tell you everything. For instance...  
 
 ![Demo](demo.gif)
 
