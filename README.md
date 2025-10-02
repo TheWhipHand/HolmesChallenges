@@ -42,3 +42,8 @@ File: the_coventry_conundrum
 ![3](3.gif)
 
 Files: secure_phone_system, secure_phone_system.c
+
+<details>
+  <summary>Hint</summary>
+  The system contains critical security vulnerabilities
+</details>
