@@ -6,7 +6,7 @@ I'd tell you the code right now, but you know what? I already have. Think.
 — So what?  
 — Oh, noises are important. Noises can tell you everything. For instance...  
 
-![Demo](demo.gif)
+![0](0.gif)
 
 File: [binary-task.bin]
 <details>
