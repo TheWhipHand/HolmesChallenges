@@ -1,6 +1,6 @@
 I'd tell you the code right now, but you know what? I already have. Think.
 
-## Task 1: 
+## Quest 1: 
 
 — There's going to be a loud noise  
 — So what?  
@@ -14,6 +14,6 @@ File: [binary-task.bin]
     letter_to_dtmf = {'A': '00', 'B': '01', ..., 'Z': '25'}
 </details>
 
-## Task 2: 
+## Quest 2: 
 
-## Task 3: 
+## Quest 3: 
