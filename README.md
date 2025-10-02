@@ -10,7 +10,7 @@ I'd tell you the code right now, but you know what? I already have. Think.
 
 <details>
   <summary>Hint</summary>
-  ```letter_to_dtmf = {'A': '00', 'B': '01', ..., 'Z': '25'}```
+  letter_to_dtmf = {'A': '00', 'B': '01', ..., 'Z': '25'}
 </details>
 
 ## Quest 2: 
