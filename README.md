@@ -17,4 +17,8 @@ I'd tell you the code right now, but you know what? I already have. Think
 
 ## Quest 2: 
 
+![2](2.gif)
+
 ## Quest 3: 
+
+![3](3.gif)
