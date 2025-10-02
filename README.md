@@ -1,5 +1,7 @@
 I'd tell you the code right now, but you know what? I already have. Think
 
+![0](0.gif)
+
 ## Quest 1: 
 
 — There's going to be a loud noise  
