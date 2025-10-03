@@ -34,8 +34,7 @@ File: the_coventry_conundrum
 
 ## Quest 3: 
 
-— You have a passcode to open this  
-— I deeply regret to say we have people who can extract it from you  
+— You have a passcode to open this. I deeply regret to say we have people who can extract it from you  
 — Sherlock?  
 — There will be two passcodes, one to open the phone, one to burn the drive. Even under duress, you can't know which one she's given you and there would be no point in a second attempt  
 
