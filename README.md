@@ -44,5 +44,5 @@ Files: secure_phone_system, secure_phone_system.c
 
 <details>
   <summary>Hint</summary>
-  The system contains critical security vulnerabilities
+  Everything is already written in the code, so what kind of hints are you looking for...?
 </details>
