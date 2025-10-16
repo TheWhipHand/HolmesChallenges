@@ -67,16 +67,16 @@ void init_system() {
     strncpy(phone_drive.data, secret_data, BUF_SIZE - 1);
     phone_drive.data[BUF_SIZE - 1] = 0;
 
-    for(int i = 0; i < BUF_SIZE; i++) {
+    for (int i = 0; i < BUF_SIZE; i++) {
         phone_drive.checksum ^= phone_drive.data[i];
     }
 
-    for(int i = 0; i < 17; i++) {
+    for (int i = 0; i < 17; i++) {
         auth.first_code[i] = 'A' + (rand() % 26);
     }
     auth.first_code[17] = 0;
     
-    for(int i = 0; i < 12; i++) {
+    for (int i = 0; i < 12; i++) {
         auth.second_code[i] = 'a' + (rand() % 26);
     }
     auth.second_code[12] = 0;
@@ -89,7 +89,7 @@ memory_operation_t* setup_memory_operations() {
     op->integrity_validator = 1;
     op->operation_done = 0;
     
-    for(int i = 0; i < 5; i++) {
+    for (int i = 0; i < 5; i++) {
         memset(op->system_cache[i], 0xCC + i, 16);
     }
     
@@ -229,11 +229,11 @@ int main() {
         printf("Attempt %d/2\n", attempts + 1);
         
         printf("Enter the first code: ");
-        if(!fgets(code1, sizeof(code1), stdin)) break;
+        if (!fgets(code1, sizeof(code1), stdin)) break;
         code1[strcspn(code1, "\n")] = 0;
         
         printf("Enter the second code: ");
-        if(!fgets(code2, sizeof(code2), stdin)) break;
+        if (!fgets(code2, sizeof(code2), stdin)) break;
         code2[strcspn(code2, "\n")] = 0;
         printf("\n");
         
@@ -241,7 +241,7 @@ int main() {
         analyze_memory_access_patterns(code1);
         authentication(code1, code2);
         
-        if(auth.access_approved && !auth.destruct_activated) {
+        if (auth.access_approved && !auth.destruct_activated) {
             printf("[+] Authentication successful!\n");
             access_secure_data();
             break;
@@ -265,4 +265,5 @@ int main() {
     printf("\nSystem shutdown complete\n");
 
     return 0;
+
 }
