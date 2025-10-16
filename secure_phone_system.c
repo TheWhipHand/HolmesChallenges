@@ -261,9 +261,8 @@ int main() {
     }
 
     perform_system_diagnostics();
-
     printf("\nSystem shutdown complete\n");
 
     return 0;
-
 }
+
